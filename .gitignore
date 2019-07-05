@@ -1,3 +1,8 @@
 Common/.vs/
 Common/bin/
 Common/obj/
+CommonForms/CommonForms.Android/bin/
+CommonForms/CommonForms.Android/obj/
+CommonForms/CommonForms.iOS/obj/
+CommonForms/CommonForms/bin/
+CommonForms/CommonForms/obj/
