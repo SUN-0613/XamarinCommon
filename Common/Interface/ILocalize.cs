@@ -14,12 +14,12 @@ namespace AYam.Common.Interface
         /// </summary>
         /// <returns></returns>
         CultureInfo GetCurrentCultureInfo();
-        
+
         /// <summary>
         /// 言語セット
         /// </summary>
-        /// <param name="cl"></param>
-        void SetLocal(CultureInfo cl);
+        /// <param name="cultureInfo"></param>
+        void SetLocal(CultureInfo cultureInfo);
 
     }
 

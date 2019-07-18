@@ -5,6 +5,10 @@
     /// ローカル通知
     /// DependencyServiceにて利用
     /// </summary>
+    /// <remarks>
+    /// 参考URL
+    /// https://itblogdsi.blog.fc2.com/blog-entry-185.html
+    /// </remarks>
     public interface INotificationService
     {
 
